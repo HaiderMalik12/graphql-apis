@@ -1,4 +1,4 @@
-##Building APIs with GraphQL, NodeJs and Mongoose
+## Building APIs with GraphQL, NodeJs and Mongoose
 ### Setup
 
 ```
